@@ -1,0 +1,1 @@
+ResourceShare UI - Bootstrap edition\n\nUnzip into XAMPP htdocs, import init.sql into MySQL (phpMyAdmin), ensure uploads/ is writable.\nDefault seeded user: student / password123\n
